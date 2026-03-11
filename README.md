@@ -46,8 +46,8 @@ This reduces the risk of killing important system processes, but you should stil
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ChrisFle2003/APP-Killer_v9000.git
+cd APP-Killer_v9000
 ```
 
 Install dependencies:
