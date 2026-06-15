@@ -1,5 +1,5 @@
 # APP-Killer_v9000
-Just close all APPs, that reserve important storage!
+Just close all APPs, that reserve important hardware!
 
 # Performance Booster
 
